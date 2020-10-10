@@ -1,64 +1,18 @@
-# Project Title
+# 100DaysOfCode
 
-One Paragraph of project description goes here
+Here All Of my Practice will be Documented for the Next 100 Days while I will be Doing 100 Days Of Code
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I will be Mostly Coding in Python but I will take Other Languages as my consideration.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+For any Language You must Have the Language Installed in Your System.
 
-```
-Give examples
-```
+## Day 1
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* FrameWorks Goes Here
+Today I Updated My E - Commerce Website in which I added Method for Deleting the Product using JavaScript and the Whole Project is made with Python Django named as [RushX](https://rushx.pythonanywhere.com).
 
 ## Contributing
 
