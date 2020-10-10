@@ -14,6 +14,10 @@ For any Language You must Have the Language Installed in Your System.
 
 Today I Updated My E - Commerce Website in which I added Method for Deleting the Product using JavaScript and the Whole Project is made with Python Django named as [RushX](https://rushx.pythonanywhere.com).
 
+## Day 2
+
+Today I Updated My Portfolio Website which was already Built with Flask ( A Frame work in Python ) to Django ( The Most Advanced Frame Work in Python ) this can be found here [Aman Ojha](https://amanojha.pythonanywhere.com)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
