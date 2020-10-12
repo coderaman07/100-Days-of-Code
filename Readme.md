@@ -18,6 +18,10 @@ Today I Updated My E - Commerce Website in which I added Method for Deleting the
 
 Today I Updated My Portfolio Website which was already Built with Flask ( A Frame work in Python ) to Django ( The Most Advanced Frame Work in Python ) this can be found here [Aman Ojha](https://amanojha.pythonanywhere.com)
 
+## Day 3
+
+Today I Continued My React Course and Learned how 2 pass Functions in props to other components and also learned how 2 use React First of all
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
