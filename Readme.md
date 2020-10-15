@@ -52,6 +52,10 @@ Today I learned about Java more like how 2 create some GUI using Java and also c
 
 Today I started Game Developement in which I created a Basic Game which look like 3D Game but is meant for playing like 2D Game. Hope I will make it as soon as possible.
 
+##Day 6
+
+Today got nothing to explain in Detail but I continued my Game Developement Journey.
+
 
 
 ## Contributing
