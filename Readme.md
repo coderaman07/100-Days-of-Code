@@ -60,6 +60,11 @@ Today got nothing to explain in Detail but I continued my Game Developement Jour
 
 Today also I continued my Game Developement Journey and also I coded a bit on [Hackerrank](https://hackerrank.com)
 
+## Day 8
+
+Added Custom 404 and 500 Error Page to be served when a user entered the URL on the address Bar, which includes Designing and adding it to my Django Portfolio wanna Try hit this URL [Go to the Custom Error Page](https://amanojha.pythonanywhere.com/testing-this-url-for-the-viewers-satisifaction)
+
+
 
 
 ## Contributing
