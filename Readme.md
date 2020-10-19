@@ -68,6 +68,10 @@ Added Custom 404 and 500 Error Page to be served when a user entered the URL on 
 
 Continued my Java Course for the College Course which I am ahead of 2 Units.
 
+## Day 10
+
+Worked on My 3D Game and made a bit change while creating a new Project which will be a complete 3D Game.
+
 
 ## Contributing
 
