@@ -70,7 +70,11 @@ Continued my Java Course for the College Course which I am ahead of 2 Units.
 
 ## Day 10
 
-Worked on My 3D Game and made a bit change while creating a new Project which will be a complete 3D Game.
+Worked on My 3D Game and made a bit change while creating a new Project which will be a complete 3D Game also made some models which I will use in my Game which I call it as Cube Runner.
+
+## Day 11
+
+I did completedMy Android App on which I was trying to get over since long time. Also I completed my Core Java Course by Naveen Reddy a.k.a. Telusko.
 
 
 ## Contributing
