@@ -12,25 +12,17 @@ For any Language You must Have the Language Installed in Your System.
 
 ## Languages used :
 
-   ___________________________________________________
-   |  Sr. No. 	|	Languages Used in This Time Span   |
-   |-------------------------------------------------|
-   |	1.		   |		Python						               |
-   |-----------|-------------------------------------|
-   |	2.		   |		Java						                 |
-   |-----------|-------------------------------------|
-   |	3.		   |		JavaScript					             |
-   |-----------|-------------------------------------|
-   |	4.		   |		C#							                 |
-   |-----------|-------------------------------------|
-   |	5.		   |		Ruby						                 |
-   |-----------|-------------------------------------|
-   |	6.		   |		C/C++						                 |
-   |-----------|-------------------------------------|
-   |	7.		   |		Dart						                 |
-   |-----------|-------------------------------------|
-   |	8.		   |		Flutter						               |
-   |-----------|-------------------------------------|
+   ---------------------------------------------------------
+   |  Sr. No. 	|	Languages Used in This Time Span|
+   |------------|--------------------------------------------------|
+   1.|Python
+   2.|Java
+   3.|JavaScript
+   4.|C#
+   5.|Ruby
+   6.|C/C++
+   7.|Dart
+   8.|Flutter
 
 ## Day 1
 
@@ -75,6 +67,10 @@ Worked on My 3D Game and made a bit change while creating a new Project which wi
 ## Day 11
 
 I did completed My Android App on which I was trying to get over since long time. Also I completed my Core Java Course by Naveen Reddy a.k.a. Telusko.
+
+## Day 12
+
+From Today I started to attend a Blog Writing Online assessment program in which I will be taught how to write perfect blogs depending upon the topics from deciding the Blog topics to publishing it online.
 
 
 ## Contributing
