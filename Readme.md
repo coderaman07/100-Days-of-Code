@@ -72,6 +72,10 @@ I did completed My Android App on which I was trying to get over since long time
 
 From Today I started to attend a Blog Writing Online assessment program in which I will be taught how to write perfect blogs depending upon the topics from deciding the Blog topics to publishing it online.
 
+## Day 13
+
+Today I made a progress in my Blog writing. Today I learnt how to find a trendy topic for my Niche ( The specific area in which you want to write blog posts is called Niche ). You can have a research on your Niche by using tools like **alltop** and **Google Trends**.
+
 
 ## Contributing
 
