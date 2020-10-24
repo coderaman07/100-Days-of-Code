@@ -80,6 +80,10 @@ Today I made a progress in my Blog writing. Today I learnt how to find a trendy 
 
 After you had decided the trend on which you want to write blog posts for some time in near future now it is important to create some catchy headlines for your blog post you can have some catchy headlines using these websites for free **TheHoth** and **Hub Spot**.
 
+## Day 15
+
+Now when you are ready with your Catchy Headlines for the blog post let's analyse the headline for the amount of traffic it can gain with that headline. You can use **Coschedule** for this purpose.
+
 
 ## Contributing
 
