@@ -84,6 +84,10 @@ After you had decided the trend on which you want to write blog posts for some t
 
 Now when you are ready with your Catchy Headlines for the blog post let's analyse the headline for the amount of traffic it can gain with that headline. You can use **Coschedule** for this purpose.
 
+## Day 16
+
+After you have written your Blog post I'm sure it will be the best of your content but let's improve it a bit more. You can use **Power Thesaurus** and **Dictionary.com** to Improvise your words to make a better impact on your readers.
+
 
 ## Contributing
 
