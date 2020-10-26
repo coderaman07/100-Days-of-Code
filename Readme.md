@@ -88,6 +88,10 @@ Now when you are ready with your Catchy Headlines for the blog post let's analys
 
 After you have written your Blog post I'm sure it will be the best of your content but let's improve it a bit more. You can use **Power Thesaurus** and **Dictionary.com** to Improvise your words to make a better impact on your readers.
 
+## Day 17
+
+After making the nessesary changes in the words of blog we must evaluate our blog with some grammer check tool. You can use **Grammerly** tool to get your grammer check for free with additional suggestions.
+
 
 ## Contributing
 
