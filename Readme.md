@@ -92,6 +92,10 @@ After you have written your Blog post I'm sure it will be the best of your conte
 
 After making the nessesary changes in the words of blog we must evaluate our blog with some grammer check tool. You can use **Grammerly** tool to get your grammer check for free with additional suggestions.
 
+## Day 18
+
+Adding Images and gif format videos in your blog post always preferable to make your content more attractable to the reader or the users of the platform either it is your blogging website or some free blogging platfom. You can use **Blogger** for this.
+
 
 ## Contributing
 
