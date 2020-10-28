@@ -96,6 +96,12 @@ After making the nessesary changes in the words of blog we must evaluate our blo
 
 Adding Images and gif format videos in your blog post always preferable to make your content more attractable to the reader or the users of the platform either it is your blogging website or some free blogging platfom. You can use **Blogger** for this.
 
+## Day 19
+
+Creating your own image or gif format videos is best as you don't have to search for the image or gif format videos. You can use **Giphy GIF maker** or **ImgFlip**. And for Editing Images you can use **Canva** and **Pixlr**.
+
+
+
 
 ## Contributing
 
