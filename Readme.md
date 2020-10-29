@@ -100,7 +100,9 @@ Adding Images and gif format videos in your blog post always preferable to make 
 
 Creating your own image or gif format videos is best as you don't have to search for the image or gif format videos. You can use **Giphy GIF maker** or **ImgFlip**. And for Editing Images you can use **Canva** and **Pixlr**.
 
+## Day 20
 
+Check your plagarism to check the availablity of the content over the internet so that your content don't match up with some other blogs over the internet because it can lead you to get seued for stealing their content. You can use **Dupli Checker** or **Quetext** to get your job done for free.
 
 
 ## Contributing
