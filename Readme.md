@@ -104,6 +104,9 @@ Creating your own image or gif format videos is best as you don't have to search
 
 Check your plagarism to check the availablity of the content over the internet so that your content don't match up with some other blogs over the internet because it can lead you to get seued for stealing their content. You can use **Dupli Checker** or **Quetext** to get your job done for free.
 
+## Day 21
+
+From today I started building a Mini Project for one of my friend [Apoorva](https://instagram.com/apoorva_vats20) which will be a website similar to [Udemy](https://udemy.com) where everyone will be having access to best books and best video courses over the Internet.
 
 ## Contributing
 
