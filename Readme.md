@@ -108,6 +108,10 @@ Check your plagarism to check the availablity of the content over the internet s
 
 From today I started building a Mini Project for one of my friend [Apoorva](https://instagram.com/apoorva_vats20) which will be a website similar to [Udemy](https://udemy.com) where everyone will be having access to best books and best video courses over the Internet.
 
+## Day 22
+
+I started designing for the website which can be used for the best UI for the users ( and I think I had my best Designing skills in this ).
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
