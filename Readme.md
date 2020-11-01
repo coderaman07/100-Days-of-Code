@@ -112,6 +112,10 @@ From today I started building a Mini Project for one of my friend [Apoorva](http
 
 I started designing for the website which can be used for the best UI for the users ( and I think I had my best Designing skills in this ).
 
+## Day 23
+
+I made a bit of Home Page and the Course pages which will help me out to crete the HTML contents via Jinja Templating ( Django related terminology ). It looks good but yes the Dashboard page looks awefull to eyes.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
