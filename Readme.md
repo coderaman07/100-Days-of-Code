@@ -118,7 +118,7 @@ I made a bit of Home Page and the Course pages which will help me out to crete t
 
 ## Day 24
 
-I made a bit of the models and Database Designing and Table seperation from other entries or you can say like creation of tables in Database [ new table for new task ].
+I made a bit of the models and Database Designing and Table seperation from other entries or you can say like creation of tables in Database [ new table for new task ]..
 
 ## Contributing
 
