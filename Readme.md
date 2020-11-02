@@ -116,6 +116,10 @@ I started designing for the website which can be used for the best UI for the us
 
 I made a bit of Home Page and the Course pages which will help me out to crete the HTML contents via Jinja Templating ( Django related terminology ). It looks good but yes the Dashboard page looks awefull to eyes.
 
+## Day 24
+
+I made a bit of the models and Database Designing and Table seperation from other entries or you can say like creation of tables in Database [ new table for new task ].
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
