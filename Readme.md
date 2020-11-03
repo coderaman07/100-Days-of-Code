@@ -120,6 +120,10 @@ I made a bit of Home Page and the Course pages which will help me out to crete t
 
 I made a bit of the models and Database Designing and Table seperation from other entries or you can say like creation of tables in Database [ new table for new task ]..
 
+## Day 25
+
+Worked on views like how the URLs will work and how the data will be prsented to the user once the user hit the website with its Unique IP address.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
