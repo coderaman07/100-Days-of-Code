@@ -124,6 +124,10 @@ I made a bit of the models and Database Designing and Table seperation from othe
 
 Worked on views like how the URLs will work and how the data will be prsented to the user once the user hit the website with its Unique IP address.
 
+## Day 26
+
+Created some session variables in Python for the website and allotted the users a special user name which will be compared for every particular task and operations will be performed on the basis of the user name which will be stored in session variable.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
