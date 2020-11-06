@@ -132,6 +132,10 @@ Created some session variables in Python for the website and allotted the users 
 
 Worked on some of the images and urls of the books which shall be provided to the user once the user had done with purchasing ( btw I had not made the process for purchasing but working on the file how the user can access the file once logged in ).
 
+## Day 28
+
+After the can can be downloaded I thought of to get rid of the Payment system in this website and now working on it not like I made in [RushX](https://rushx.pythonanywhere.com) but still a decent payment system where you can get the payment done after the owner confirms that you had made the payment yea it is old school but still I love it [ sometimes you can cheat with your customers I know thats illegal but I still dream of this ]
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
