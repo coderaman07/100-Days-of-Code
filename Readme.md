@@ -136,6 +136,10 @@ Worked on some of the images and urls of the books which shall be provided to th
 
 After the can can be downloaded I thought of to get rid of the Payment system in this website and now working on it not like I made in [RushX](https://rushx.pythonanywhere.com) but still a decent payment system where you can get the payment done after the owner confirms that you had made the payment yea it is old school but still I love it [ sometimes you can cheat with your customers I know thats illegal but I still dream of this ]
 
+## Day 29
+
+Done with the Payment system and now also with the user based view where a user can have some setting according to the user settings ( Wanna try this website ?? DM me on my [Instagram](https://instagram.com/aman_.1107))
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
