@@ -106,7 +106,7 @@ Check your plagarism to check the availablity of the content over the internet s
 
 ## Day 21
 
-From today I started building a Mini Project for one of my friend [Apoorva](https://instagram.com/apoorva_vats20) which will be a website similar to [Udemy](https://udemy.com) where everyone will be having access to best books and best video courses over the Internet.
+From today I started building a Mini Project for my Best friend [Apoorva](https://instagram.com/apoorva_vats20) which will be a website similar to [Udemy](https://udemy.com) where everyone will be having access to best books and best video courses over the Internet.
 
 ## Day 22
 
@@ -139,6 +139,12 @@ After the can can be downloaded I thought of to get rid of the Payment system in
 ## Day 29
 
 Done with the Payment system and now also with the user based view where a user can have some setting according to the user settings ( Wanna try this website ?? DM me on my [Instagram](https://instagram.com/aman_.1107))
+
+## Day 30
+
+Fixed some bugs in this website like the user image was not loading and the password was not secure when it was going in the Database. Finally Done with the Mini Project of my friend I can still make it good than its current position but I have to build my own Project also which I am thinking to make a Youtube clone with a Hotstar look or GUI Tell me on my [Instgram](https://instagram.com/aman_.1107)
+
+
 
 ## Contributing
 
