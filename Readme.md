@@ -144,6 +144,10 @@ Done with the Payment system and now also with the user based view where a user 
 
 Fixed some bugs in this website like the user image was not loading and the password was not secure when it was going in the Database. Finally Done with the Mini Project of my friend I can still make it good than its current position but I have to build my own Project also which I am thinking to make a Youtube clone with a Hotstar look or GUI Tell me on my [Instgram](https://instagram.com/aman_.1107)
 
+## Day 31
+
+Handed over the Project to [Apoorva](https://instagram.com/apoorva_vats20) and now waiting for the Responses for my project is it Good or not till now I have got 8 response from your side I was expecting atleast 20 but not bad I will try to make a desicion on that only BTW i will be stil waiting for you all till then I will go back to [Hackerrank](https://hackerrank.com) 
+
 
 
 ## Contributing
