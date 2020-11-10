@@ -148,6 +148,10 @@ Fixed some bugs in this website like the user image was not loading and the pass
 
 Handed over the Project to [Apoorva](https://instagram.com/apoorva_vats20) and now waiting for the Responses for my project is it Good or not till now I have got 8 response from your side I was expecting atleast 20 but not bad I will try to make a desicion on that only BTW i will be stil waiting for you all till then I will go back to [Hackerrank](https://hackerrank.com) 
 
+## Day 32
+
+So today I got 10 Responses from your side and I will do the nessessary modifications and continue to the same Project I was telling you all about also I will keep on Updating this website and this will be 100% free of cost so you dont have to pay in this website to watch contents just like [YouTube](https://youtube.com) not llike [Hotstar](https://hotstar.com) but today also back to the [Hackerrank](https://hackerrank.com).
+
 
 
 ## Contributing
