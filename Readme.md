@@ -152,6 +152,10 @@ Handed over the Project to [Apoorva](https://instagram.com/apoorva_vats20) and n
 
 So today I got 10 Responses from your side and I will do the nessessary modifications and continue to the same Project I was telling you all about also I will keep on Updating this website and this will be 100% free of cost so you dont have to pay in this website to watch contents just like [YouTube](https://youtube.com) not llike [Hotstar](https://hotstar.com) but today also back to the [Hackerrank](https://hackerrank.com).
 
+## Day 33 
+
+I started designing my Website with HTML and CSS but trying to not make make a exact copy of [Hotstar](https://hotstar.com) for I don't know for legal reasons and also I am seeking some inspirations for this on dribble if you got some please let me know.
+
 
 
 ## Contributing
