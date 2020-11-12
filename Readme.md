@@ -156,6 +156,10 @@ So today I got 10 Responses from your side and I will do the nessessary modifica
 
 I started designing my Website with HTML and CSS but trying to not make make a exact copy of [Hotstar](https://hotstar.com) for I don't know for legal reasons and also I am seeking some inspirations for this on dribble if you got some please let me know.
 
+## Day 34
+
+I had Developed a Prototype for my website which can be seen on my [Instagram](https://instagram.com/aman_.1107) I used figma for this designing and hope to design more ( just saying but designing is not my cup of tea I got to know now ).
+
 
 
 ## Contributing
