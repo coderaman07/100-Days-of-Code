@@ -160,6 +160,10 @@ I started designing my Website with HTML and CSS but trying to not make make a e
 
 I had Developed a Prototype for my website which can be seen on my [Instagram](https://instagram.com/aman_.1107) I used figma for this designing and hope to design more ( just saying but designing is not my cup of tea I got to know now ).
 
+## Day 35
+
+I now have Developed some of the Data modules for the Database and tables for the website I am going to Develop. It is the easiest thing I think at my level coz all you have to do is figuring out which things are going to where and you are done with it But sometmes it feels like frustating when you have to enable the comments.
+
 
 
 ## Contributing
