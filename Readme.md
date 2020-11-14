@@ -164,6 +164,10 @@ I had Developed a Prototype for my website which can be seen on my [Instagram](h
 
 I now have Developed some of the Data modules for the Database and tables for the website I am going to Develop. It is the easiest thing I think at my level coz all you have to do is figuring out which things are going to where and you are done with it But sometmes it feels like frustating when you have to enable the comments.
 
+## Day 36
+
+Today I started Writing HTML for this for with mostly CSS to make a best UI for the user. and with some basic competative coding thing.
+
 
 
 ## Contributing
