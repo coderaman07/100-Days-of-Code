@@ -168,6 +168,10 @@ I now have Developed some of the Data modules for the Database and tables for th
 
 Today I started Writing HTML for this for with mostly CSS to make a best UI for the user. and with some basic competative coding thing.
 
+## Day 37
+
+Designing is almost complete but it will consume my todays day most probably tommorow it will be complete because still I have to some pages ( with CSS ).
+
 
 
 ## Contributing
