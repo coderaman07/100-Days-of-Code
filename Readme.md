@@ -172,6 +172,10 @@ Today I started Writing HTML for this for with mostly CSS to make a best UI for 
 
 Designing is almost complete but it will consume my todays day most probably tommorow it will be complete because still I have to some pages ( with CSS ).
 
+## Day 38
+
+Developed some models in Python for contructing the Databse Tables while integerating the Firebase with Django ( which I will be using as a backend for this Project ) 
+
 
 
 ## Contributing
