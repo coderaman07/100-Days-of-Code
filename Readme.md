@@ -176,6 +176,10 @@ Designing is almost complete but it will consume my todays day most probably tom
 
 Developed some models in Python for contructing the Databse Tables while integerating the Firebase with Django ( which I will be using as a backend for this Project ) 
 
+## Day 39
+
+Today I created the views for the users which they get when they hit my website also worked on data models that what content will be available to them when they login or open the website.
+
 
 
 ## Contributing
