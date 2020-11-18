@@ -180,6 +180,10 @@ Developed some models in Python for contructing the Databse Tables while integer
 
 Today I created the views for the users which they get when they hit my website also worked on data models that what content will be available to them when they login or open the website.
 
+## Day 40
+
+Developed logics for the user signup and user login with the connection varibales for the user to set up the settings on the basis of their preferance such as dark mode and other stuff.
+
 
 
 ## Contributing
