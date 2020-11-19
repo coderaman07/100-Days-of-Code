@@ -184,6 +184,12 @@ Today I created the views for the users which they get when they hit my website 
 
 Developed logics for the user signup and user login with the connection varibales for the user to set up the settings on the basis of their preferance such as dark mode and other stuff.
 
+## Day 41
+
+Today I developed the login for the user to change the password as well as the username and reducing the space required to a fixed storage ( trying to figure out ).
+
+
+
 
 
 ## Contributing
