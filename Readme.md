@@ -188,7 +188,10 @@ Developed logics for the user signup and user login with the connection varibale
 
 Today I developed the login for the user to change the password as well as the username and reducing the space required to a fixed storage ( trying to figure out ).
 
+## Day 42
 
+I figured out how to reduce the storage to almost fixed thing. Let me tell you how to do this
+What if I just tell the user to store the image or the video to some of your own hosting platforms or Google storage and provide us the link then through that link we will access he item it can be image or video just to place under the correct tag in HTML5 and everything will work just as fine so trying out how to implement it.
 
 
 
