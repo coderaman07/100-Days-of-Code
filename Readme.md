@@ -193,6 +193,10 @@ Today I developed the login for the user to change the password as well as the u
 I figured out how to reduce the storage to almost fixed thing. Let me tell you how to do this
 What if I just tell the user to store the image or the video to some of your own hosting platforms or Google storage and provide us the link then through that link we will access he item it can be image or video just to place under the correct tag in HTML5 and everything will work just as fine so trying out how to implement it.
 
+## Day 43
+
+So this technique worked just as I thought and it provides me to get some free images to the articles or the content and paste the url to the urlbar which the Django priovides and deliver the content to the consumer of the website and now trying out the same thing with the video
+
 
 
 ## Contributing
