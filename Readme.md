@@ -195,7 +195,11 @@ What if I just tell the user to store the image or the video to some of your own
 
 ## Day 43
 
-So this technique worked just as I thought and it provides me to get some free images to the articles or the content and paste the url to the urlbar which the Django priovides and deliver the content to the consumer of the website and now trying out the same thing with the video
+So this technique worked just as I thought and it provides me to get some free images to the articles or the content and paste the url to the urlbar which the Django priovides and deliver the content to the consumer of the website and now trying out the same thing with the video.
+
+## Day 44
+
+Finally finished with this project and fixed some bugs like images not being rendered when data models were diffrentiated for anime and movies.
 
 
 
