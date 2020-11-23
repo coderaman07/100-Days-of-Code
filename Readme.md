@@ -201,6 +201,10 @@ So this technique worked just as I thought and it provides me to get some free i
 
 Finally finished with this project and fixed some bugs like images not being rendered when data models were diffrentiated for anime and movies.
 
+## Day 45
+
+Back to [Hackerrank](https://hackerrank.com) and practiced some problems on DBMS and Python.
+
 
 
 ## Contributing
