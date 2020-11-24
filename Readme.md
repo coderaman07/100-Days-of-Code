@@ -205,6 +205,10 @@ Finally finished with this project and fixed some bugs like images not being ren
 
 Back to [Hackerrank](https://hackerrank.com) and practiced some problems on DBMS and Python.
 
+## Day 46
+
+Started with React JavaScript and following a tutorial from Udemy and FreeCodeCamp while I will be revising the JavaScript with more details.
+
 
 
 ## Contributing
