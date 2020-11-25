@@ -209,6 +209,10 @@ Back to [Hackerrank](https://hackerrank.com) and practiced some problems on DBMS
 
 Started with React JavaScript and following a tutorial from Udemy and FreeCodeCamp while I will be revising the JavaScript with more details.
 
+## Day 47
+
+Today I learnt about useState function in React JS in which I learnt about useState basics with some useState Counter and also useState objects and Arrays.
+
 
 
 ## Contributing
