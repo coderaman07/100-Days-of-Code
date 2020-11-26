@@ -213,6 +213,10 @@ Started with React JavaScript and following a tutorial from Udemy and FreeCodeCa
 
 Today I learnt about useState function in React JS in which I learnt about useState basics with some useState Counter and also useState objects and Arrays.
 
+## Day 48
+
+Today I got into some concepts of useEffects basics and also about fetch data from Internet and cleanup and why we should use cleanup for useEffects and practised some basics of useState
+
 
 
 ## Contributing
