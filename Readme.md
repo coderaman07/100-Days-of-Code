@@ -215,7 +215,13 @@ Today I learnt about useState function in React JS in which I learnt about useSt
 
 ## Day 48
 
-Today I got into some concepts of useEffects basics and also about fetch data from Internet and cleanup and why we should use cleanup for useEffects and practised some basics of useState
+Today I got into some concepts of useEffects basics and also about fetch data from Internet and cleanup and why we should use cleanup for useEffects and practised some basics of useState.
+
+## Day 49
+
+Today I learned about multiple return in a React Component where it will work on the basis of if statement and on the basis of that if satement it will give you that return statement from that component. with it I learned about short circuit methods and also show and hide in React JS.
+
+
 
 
 
