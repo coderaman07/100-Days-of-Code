@@ -221,7 +221,9 @@ Today I got into some concepts of useEffects basics and also about fetch data fr
 
 Today I learned about multiple return in a React Component where it will work on the basis of if statement and on the basis of that if satement it will give you that return statement from that component. with it I learned about short circuit methods and also show and hide in React JS.
 
+## Day 50
 
+Today I learnt about forms which includes controlled inputs and multiple inputs while the control of those forms will be with React.
 
 
 
