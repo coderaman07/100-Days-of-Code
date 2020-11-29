@@ -225,6 +225,10 @@ Today I learned about multiple return in a React Component where it will work on
 
 Today I learnt about forms which includes controlled inputs and multiple inputs while the control of those forms will be with React.
 
+## Day 51
+
+Today I took a look back on the previous concepts I learnt in React JS while moved on with a small concept of useRef you have to assume it as a tag in your JSX forms which we learnt in the previous days.
+
 
 
 ## Contributing
