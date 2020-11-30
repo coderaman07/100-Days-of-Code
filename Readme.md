@@ -233,6 +233,10 @@ Today I took a look back on the previous concepts I learnt in React JS while mov
 
 Today I took a look on useReducer in ReactJs and thats all coz it was a bit of confusing for me to digest in one day i will have to take a look in future.
 
+## Day 53
+
+Today I learnt about prop Drilling in this I learnt that how to not to pass some information to every child function to render it out on the webpage.
+
 
 
 ## Contributing
