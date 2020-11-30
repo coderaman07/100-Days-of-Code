@@ -229,6 +229,10 @@ Today I learnt about forms which includes controlled inputs and multiple inputs 
 
 Today I took a look back on the previous concepts I learnt in React JS while moved on with a small concept of useRef you have to assume it as a tag in your JSX forms which we learnt in the previous days.
 
+## Day 52
+
+Today I took a look on useReducer in ReactJs and thats all coz it was a bit of confusing for me to digest in one day i will have to take a look in future.
+
 
 
 ## Contributing
