@@ -245,6 +245,10 @@ Today I learnt about context APIs and how can we use it to rectify the error of 
 
 Today I learn about how to create custom hooks and how to make our apps clear from the custom hooks clutter.
 
+## Day 56
+
+Today I thought of to take a break and solve some of the Hackerrank problems as today in my college some coding competitions were there so I was busy there but still learnt about prop types in React JS.
+
 
 ## Contributing
 
