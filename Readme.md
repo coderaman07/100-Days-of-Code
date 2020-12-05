@@ -249,6 +249,10 @@ Today I learn about how to create custom hooks and how to make our apps clear fr
 
 Today I thought of to take a break and solve some of the Hackerrank problems as today in my college some coding competitions were there so I was busy there but still learnt about prop types in React JS.
 
+## Day 57
+
+Today I learnt about the React Router and learnt how to build multi-page React apps with designs being at its best.
+
 
 ## Contributing
 
