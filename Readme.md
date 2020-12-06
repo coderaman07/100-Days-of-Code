@@ -253,6 +253,10 @@ Today I thought of to take a break and solve some of the Hackerrank problems as 
 
 Today I learnt about the React Router and learnt how to build multi-page React apps with designs being at its best.
 
+## Day 58
+
+Today was the final round of the Hackerrank coding competition in my college so I was there but still managed to finish the last topic of my React course named as useMemo and useCallback.
+
 
 ## Contributing
 
