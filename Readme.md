@@ -261,6 +261,10 @@ Today was the final round of the Hackerrank coding competition in my college so 
 
 Today I learnt about Flutter and Dart basics and how to dive in Flutter. Flutter is way more good Android app Developement Language i feel so. moreover you can just develop your Android App and also you can have your Appin IOS with the same codebase and also Samne design.
 
+## Day 60
+
+Today I learnt about how to setup the Flutter in Windows OS and how to develop the first basic App in flutter and how to get it running on the Android Emulator.
+
 
 ## Contributing
 
