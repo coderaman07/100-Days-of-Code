@@ -257,6 +257,10 @@ Today I learnt about the React Router and learnt how to build multi-page React a
 
 Today was the final round of the Hackerrank coding competition in my college so I was there but still managed to finish the last topic of my React course named as useMemo and useCallback.
 
+## Day 59
+
+Today I learnt about Flutter and Dart basics and how to dive in Flutter. Flutter is way more good Android app Developement Language i feel so. moreover you can just develop your Android App and also you can have your Appin IOS with the same codebase and also Samne design.
+
 
 ## Contributing
 
