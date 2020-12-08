@@ -265,6 +265,10 @@ Today I learnt about Flutter and Dart basics and how to dive in Flutter. Flutter
 
 Today I learnt about how to setup the Flutter in Windows OS and how to develop the first basic App in flutter and how to get it running on the Android Emulator.
 
+## Day 61
+
+Today I learnt about Dart basics about how to write program in Dart programming language ( basically print statements and if statements in Dart programming language ).
+
 
 ## Contributing
 
