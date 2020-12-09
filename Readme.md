@@ -269,6 +269,10 @@ Today I learnt about how to setup the Flutter in Windows OS and how to develop t
 
 Today I learnt about Dart basics about how to write program in Dart programming language ( basically print statements and if statements in Dart programming language ).
 
+## Day 62
+
+Today I leant about more Dart basics and more dart basics . It is quite similar to C++ if you have ever benn familiar with C++.
+
 
 ## Contributing
 
