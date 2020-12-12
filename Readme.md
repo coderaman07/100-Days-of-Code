@@ -281,7 +281,9 @@ Today I learnt about building a widget tree and Layout control  or using some sp
 
 Today I learnt about functions and buttons in flutter and also about Anonymous functions in Flutter 
 
+## Day 65
 
+Today i learnt about how to Develop custom widgets in flutter with custom styling in the Flutter widget.
 
 
 ## Contributing
