@@ -285,6 +285,10 @@ Today I learnt about functions and buttons in flutter and also about Anonymous f
 
 Today i learnt about how to Develop custom widgets in flutter with custom styling in the Flutter widget.
 
+## Day 66
+
+Today I learnt about how to map list to widgets and also about Map functions in Dart and how to use it in diffrent types of Dart program.
+
 
 ## Contributing
 
