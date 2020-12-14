@@ -289,6 +289,12 @@ Today i learnt about how to Develop custom widgets in flutter with custom stylin
 
 Today I learnt about how to map list to widgets and also about Map functions in Dart and how to use it in diffrent types of Dart program.
 
+## Day 67
+
+Today I learnt about final and const keywords and how to use if statements in flutter specific program to make it a good dynamic Android App.
+
+
+
 
 ## Contributing
 
