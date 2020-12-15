@@ -293,7 +293,9 @@ Today I learnt about how to map list to widgets and also about Map functions in 
 
 Today I learnt about final and const keywords and how to use if statements in flutter specific program to make it a good dynamic Android App.
 
+## Day 68
 
+Today I deep dived in Dart specifics and also about more on If statements in both flutter and Dart and also studied about null variable in some blog posts on [Dev](https://dev.to) follow me on [Dev](https://dev.to/coderaman07).
 
 
 ## Contributing
