@@ -295,7 +295,11 @@ Today I learnt about final and const keywords and how to use if statements in fl
 
 ## Day 68
 
-Today I deep dived in Dart specifics and also about more on If statements in both flutter and Dart and also studied about null variable in some blog posts on [Dev](https://dev.to) follow me on [Dev](https://dev.to/coderaman07).
+Today I deep dived in Dart specifics and also about more on If statements in both flutter and Dart and also studied about null variable in some blog posts on [Dev](https://dev.to) Follow me on [Dev](https://dev.to/coderaman07).
+
+## Day 69
+
+Getters and else-if statements is really very good and also splitting your App into diffrent Widgets is very good and most of the control remains with the Programer.
 
 
 ## Contributing
