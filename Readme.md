@@ -301,6 +301,10 @@ Today I deep dived in Dart specifics and also about more on If statements in bot
 
 Getters and else-if statements is really very good and also splitting your App into diffrent Widgets is very good and most of the control remains with the Programer.
 
+## Day 70
+
+Today being the Last day of the Flutter Course I wrapped up the Flutter Course with some Small widgets and creating some basic view to deliver the user a best Android App.
+
 
 ## Contributing
 
