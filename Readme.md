@@ -305,6 +305,10 @@ Getters and else-if statements is really very good and also splitting your App i
 
 Today being the Last day of the Flutter Course I wrapped up the Flutter Course with some Small widgets and creating some basic view to deliver the user a best Android App.
 
+## Day 71
+
+I have to move back to Ghaziabad ( where my college is located ) and that travell will be a real tough thing for me so for the next few Days I am only going to read some of the Blog Posts and also some tips and tricks for the next projects.
+
 
 ## Contributing
 
