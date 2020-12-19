@@ -309,6 +309,10 @@ Today being the Last day of the Flutter Course I wrapped up the Flutter Course w
 
 I have to move back to Ghaziabad ( where my college is located ) and that travell will be a real tough thing for me so for the next few Days I am only going to read some of the Blog Posts and also some tips and tricks for the next projects.
 
+## Day 72
+
+Today I Praciced some Questions about Python on Hackerrank as I feel like I am going to forget all the conceps by learning new things [ I dont want to loose all the things ].
+
 
 ## Contributing
 
