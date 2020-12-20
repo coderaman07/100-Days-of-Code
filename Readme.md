@@ -313,6 +313,10 @@ I have to move back to Ghaziabad ( where my college is located ) and that travel
 
 Today I Praciced some Questions about Python on Hackerrank as I feel like I am going to forget all the conceps by learning new things [ I dont want to loose all the things ].
 
+## Day 73
+
+Today I Praciced some Questions about Python on Hackerrank again and also started reading some Blog Posts on Dev.
+
 
 ## Contributing
 
