@@ -317,6 +317,10 @@ Today I Praciced some Questions about Python on Hackerrank as I feel like I am g
 
 Today I Praciced some Questions about Python on Hackerrank again and also started reading some Blog Posts on Dev.
 
+## Day 74
+
+Actually I am travelling right now and got nothing to write todays followup but I am reading blog Posts about Django right now.
+
 
 ## Contributing
 
