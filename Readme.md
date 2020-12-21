@@ -10,27 +10,27 @@ I will be Mostly Coding in Python but I will take Other Languages as my consider
 
 For any Language You must Have the Language Installed in Your System.
 
-## Languages used : 
+## Languages used :
 
-   _____________________________________________________
+   ___________________________________________________
    |  Sr. No. 	|	Languages Used in This Time Span   |
-   |---------------------------------------------------|
-   |	1.		|		Python						   |
-   |------------|--------------------------------------|
-   |	2.		|		Java						   |
-   |------------|--------------------------------------|
-   |	3.		|		JavaScript					   |
-   |------------|--------------------------------------|
-   |	4.		|		C#							   |
-   |------------|--------------------------------------|
-   |	5.		|		Ruby						   |
-   |------------|--------------------------------------|
-   |	6.		|		C/C++						   |
-   |------------|--------------------------------------|
-   |	7.		|		Dart						   |
-   |------------|--------------------------------------|
-   |	8.		|		Flutter						   |
-   |------------|--------------------------------------|
+   |-------------------------------------------------|
+   |	1.		   |		Python						               |
+   |-----------|-------------------------------------|
+   |	2.		   |		Java						                 |
+   |-----------|-------------------------------------|
+   |	3.		   |		JavaScript					             |
+   |-----------|-------------------------------------|
+   |	4.		   |		C#							                 |
+   |-----------|-------------------------------------|
+   |	5.		   |		Ruby						                 |
+   |-----------|-------------------------------------|
+   |	6.		   |		C/C++						                 |
+   |-----------|-------------------------------------|
+   |	7.		   |		Dart						                 |
+   |-----------|-------------------------------------|
+   |	8.		   |		Flutter						               |
+   |-----------|-------------------------------------|
 
 ## Day 1
 
@@ -50,15 +50,15 @@ Today I learned about Java more like how 2 create some GUI using Java and also c
 
 ## Day 5
 
-Today I started Game Developement in which I created a Basic Game which look like 3D Game but is meant for playing like 2D Game. Hope I will make it as soon as possible.
+Today I started Game Development in which I created a Basic Game which look like 3D Game but is meant for playing like 2D Game. Hope I will make it as soon as possible.
 
 ## Day 6
 
-Today got nothing to explain in Detail but I continued my Game Developement Journey.
+Today got nothing to explain in Detail but I continued my Game Development Journey.
 
 ## Day 7
 
-Today also I continued my Game Developement Journey and also I coded a bit on [Hackerrank](https://hackerrank.com)
+Today also I continued my Game Development Journey and also I coded a bit on [Hackerrank](https://hackerrank.com)
 
 ## Day 8
 
@@ -74,7 +74,7 @@ Worked on My 3D Game and made a bit change while creating a new Project which wi
 
 ## Day 11
 
-I did completedMy Android App on which I was trying to get over since long time. Also I completed my Core Java Course by Naveen Reddy a.k.a. Telusko.
+I did completed My Android App on which I was trying to get over since long time. Also I completed my Core Java Course by Naveen Reddy a.k.a. Telusko.
 
 
 ## Contributing
@@ -94,4 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
