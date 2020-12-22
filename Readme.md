@@ -321,6 +321,10 @@ Today I Praciced some Questions about Python on Hackerrank again and also starte
 
 Actually I am travelling right now and got nothing to write todays followup but I am reading blog Posts about Django right now.
 
+## Day 75
+
+I arrived today as it was a 24 hours travel from [ Renukoot to Ghaziabad ] and now I am back to my Dev setup and tryin to setup my Dev setup and a Perfect Developer Table today while a Single Blog post read today I know its way tooooooo less by the work done on previos Days but we were travelling Bro lol  .
+
 
 ## Contributing
 
