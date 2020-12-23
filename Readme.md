@@ -325,6 +325,10 @@ Actually I am travelling right now and got nothing to write todays followup but 
 
 I arrived today as it was a 24 hours travel from [ Renukoot to Ghaziabad ] and now I am back to my Dev setup and tryin to setup my Dev setup and a Perfect Developer Table today while a Single Blog post read today I know its way tooooooo less by the work done on previos Days but we were travelling Bro lol  .
 
+## Day 76
+
+Today I read multiple Blog Posts not like yesterday but yes I did some Coding that was particularly server side for the [RushX](https://rushx.pythonanywhere.com) like auto Updating the Date when it is going to expire and like Auto Adding Products whenever I grant the permission to Heroku.
+
 
 ## Contributing
 
