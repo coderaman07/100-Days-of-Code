@@ -329,6 +329,10 @@ I arrived today as it was a 24 hours travel from [ Renukoot to Ghaziabad ] and n
 
 Today I read multiple Blog Posts not like yesterday but yes I did some Coding that was particularly server side for the [RushX](https://rushx.pythonanywhere.com) like auto Updating the Date when it is going to expire and like Auto Adding Products whenever I grant the permission to Heroku.
 
+## Day 77
+
+Today I learnt about Dennis on Youtube who talks more and Works way more on Django and Does the Tech mobile Reviews  ( like some Random Indian YouTuber ) and works on more Django Projects.
+
 
 ## Contributing
 
