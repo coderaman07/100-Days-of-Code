@@ -333,6 +333,12 @@ Today I read multiple Blog Posts not like yesterday but yes I did some Coding th
 
 Today I learnt about Dennis on Youtube who talks more and Works way more on Django and Does the Tech mobile Reviews  ( like some Random Indian YouTuber ) and works on more Django Projects.
 
+## Day 78
+
+From Today I am starting studing Data Structures and algorithms for the College Placements and I am kind of Bit upset as I was not Placed in Wipro from the College Placemets and I want to get Placed in Somewhere ( I want t very bad ).
+
+BTW Happy Christmas
+
 
 ## Contributing
 
