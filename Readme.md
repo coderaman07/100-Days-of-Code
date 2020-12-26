@@ -339,6 +339,10 @@ From Today I am starting studing Data Structures and algorithms for the College 
 
 BTW Happy Christmas
 
+## Day 79
+
+Today I leant about How to Integerate React JS with Django like to Deploy Apps with Django as a Backend and the FrontEnd with React JS I also Deployed a Basic React app with Django as a Backend at [this Link](https://amanojha2.pythonanywhere.com).
+
 
 ## Contributing
 
