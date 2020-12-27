@@ -343,6 +343,10 @@ BTW Happy Christmas
 
 Today I leant about How to Integerate React JS with Django like to Deploy Apps with Django as a Backend and the FrontEnd with React JS I also Deployed a Basic React app with Django as a Backend at [this Link](https://amanojha2.pythonanywhere.com).
 
+## Day 80
+
+Today I am starting to Learn how to work on APIs with Django you guessed it Right Rest Framework and now Trying to be familiar with Postman and GET and Post methods in Postman and Browser.
+
 
 ## Contributing
 
