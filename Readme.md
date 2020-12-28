@@ -347,6 +347,10 @@ Today I leant about How to Integerate React JS with Django like to Deploy Apps w
 
 Today I am starting to Learn how to work on APIs with Django you guessed it Right Rest Framework and now Trying to be familiar with Postman and GET and Post methods in Postman and Browser.
 
+## Day 81
+
+Today working on Rest more and also Trying to follow up FreeCodeCamp Tutorial like how to Develop Function based API and Class based API.
+
 
 ## Contributing
 
