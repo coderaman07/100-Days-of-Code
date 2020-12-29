@@ -351,6 +351,10 @@ Today I am starting to Learn how to work on APIs with Django you guessed it Righ
 
 Today working on Rest more and also Trying to follow up FreeCodeCamp Tutorial like how to Develop Function based API and Class based API.
 
+## Day 82
+
+Today I developed some Basic Projects on Python and for next 8 Days to Develop some Basic Projects. Today I developed a App notification for Windows 10 to Give you a custom Notification.
+
 
 ## Contributing
 
