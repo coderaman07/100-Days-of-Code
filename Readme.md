@@ -355,6 +355,11 @@ Today working on Rest more and also Trying to follow up FreeCodeCamp Tutorial li
 
 Today I developed some Basic Projects on Python and for next 8 Days to Develop some Basic Projects. Today I developed a App notification for Windows 10 to Give you a custom Notification.
 
+## Day 83
+
+Today I developed a Basic Calculator with Class Concept which was to deliver to Alok Sir as some Python Project for Jrs. It was good to Develop a full fleged Application in just 1 Day.
+
+
 
 ## Contributing
 
