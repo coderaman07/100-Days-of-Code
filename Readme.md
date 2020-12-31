@@ -359,6 +359,10 @@ Today I developed some Basic Projects on Python and for next 8 Days to Develop s
 
 Today I developed a Basic Calculator with Class Concept which was to deliver to Alok Sir as some Python Project for Jrs. It was good to Develop a full fleged Application in just 1 Day.
 
+## Day 84
+
+Today I Developed a Basic Youtube Video Downloader with a CLI Interface I tried to Develop this with no GUI and want to not to go forward with this sadly.
+
 
 
 ## Contributing
