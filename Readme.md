@@ -363,6 +363,10 @@ Today I developed a Basic Calculator with Class Concept which was to deliver to 
 
 Today I Developed a Basic Youtube Video Downloader with a CLI Interface I tried to Develop this with no GUI and want to not to go forward with this sadly.
 
+## Day 85
+
+Today I started My New Project of Blog App with React JS as Front-End and Django as Back-End So for this I Configured multiple things like Project settings for Django and React both.
+
 
 
 ## Contributing
