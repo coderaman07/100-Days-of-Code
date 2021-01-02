@@ -367,6 +367,12 @@ Today I Developed a Basic Youtube Video Downloader with a CLI Interface I tried 
 
 Today I started My New Project of Blog App with React JS as Front-End and Django as Back-End So for this I Configured multiple things like Project settings for Django and React both.
 
+## Day 86
+
+Today I started Designing the Blog UI in Figma and searching some inspiration for a Best minimalistic Design things.
+
+
+
 
 
 ## Contributing
