@@ -371,7 +371,9 @@ Today I started My New Project of Blog App with React JS as Front-End and Django
 
 Today I started Designing the Blog UI in Figma and searching some inspiration for a Best minimalistic Design things.
 
+## Day 87
 
+Today I got to remember that I was studying Data Structure and Algorithm by CodewithHarry and I want to continue with that only for now.
 
 
 
