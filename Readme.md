@@ -375,6 +375,10 @@ Today I started Designing the Blog UI in Figma and searching some inspiration fo
 
 Today I got to remember that I was studying Data Structure and Algorithm by CodewithHarry and I want to continue with that only for now.
 
+## Day 88
+
+Today I Revised the concepts of Array and Strings and Practiced some question like reversing a string and some other also.
+
 
 
 ## Contributing
