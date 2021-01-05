@@ -379,6 +379,10 @@ Today I got to remember that I was studying Data Structure and Algorithm by Code
 
 Today I Revised the concepts of Array and Strings and Practiced some question like reversing a string and some other also.
 
+## Day 89
+
+Today I revised about the concepts of Tricky questions like recusrssion and other things of the same type.
+
 
 
 ## Contributing
