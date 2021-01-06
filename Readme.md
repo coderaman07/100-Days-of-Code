@@ -383,6 +383,10 @@ Today I Revised the concepts of Array and Strings and Practiced some question li
 
 Today I revised about the concepts of Tricky questions like recusrssion and other things of the same type.
 
+## Day 90
+
+Today I practiced some questions on Hackerrank of Python and C++ to have a better practice on Data Structures.
+
 
 
 ## Contributing
