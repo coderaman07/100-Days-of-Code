@@ -387,6 +387,10 @@ Today I revised about the concepts of Tricky questions like recusrssion and othe
 
 Today I practiced some questions on Hackerrank of Python and C++ to have a better practice on Data Structures.
 
+## Day 91
+
+Today I Practiced some questions on Linked List with asking some help from my Teacher from way back from my School Teacher.
+
 
 
 ## Contributing
