@@ -391,6 +391,10 @@ Today I practiced some questions on Hackerrank of Python and C++ to have a bette
 
 Today I Practiced some questions on Linked List with asking some help from my Teacher from way back from my School Teacher.
 
+## Day 92
+
+Today I practiced some questions on Queues in C++ language only and now I am thinking to work on my Project again.
+
 
 
 ## Contributing
