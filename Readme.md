@@ -395,6 +395,10 @@ Today I Practiced some questions on Linked List with asking some help from my Te
 
 Today I practiced some questions on Queues in C++ language only and now I am thinking to work on my Project again.
 
+## Day 93
+
+So now Back to my Blog Project in React and Django but currently again to HTML and CSS with a little of Bootstrap and Unsplash Images.
+
 
 
 ## Contributing
