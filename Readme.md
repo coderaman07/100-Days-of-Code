@@ -399,6 +399,10 @@ Today I practiced some questions on Queues in C++ language only and now I am thi
 
 So now Back to my Blog Project in React and Django but currently again to HTML and CSS with a little of Bootstrap and Unsplash Images.
 
+## Day 94
+
+I figuredout a Basic and minimalistic Design and now Figuring it out how to Develop some basic CSS styling 
+
 
 
 ## Contributing
