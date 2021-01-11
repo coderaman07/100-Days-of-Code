@@ -401,7 +401,11 @@ So now Back to my Blog Project in React and Django but currently again to HTML a
 
 ## Day 94
 
-I figuredout a Basic and minimalistic Design and now Figuring it out how to Develop some basic CSS styling 
+I figuredout a Basic and minimalistic Design and now Figuring it out how to Develop some basic CSS styling.
+
+## Day 95
+
+I got it working I mean a Basic HTML CSS page but It will be good If I apply a basic JS like vanilla JS to make it a bit of Dynamic thing.
 
 
 
