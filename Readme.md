@@ -407,6 +407,10 @@ I figuredout a Basic and minimalistic Design and now Figuring it out how to Deve
 
 I got it working I mean a Basic HTML CSS page but It will be good If I apply a basic JS like vanilla JS to make it a bit of Dynamic thing.
 
+## Day 96
+
+I made it the Basic Prototype of the future Blogging Website now I will start working on React thing like converting this website in some smll Components and Rendering it out using a React Rendering.
+
 
 
 ## Contributing
