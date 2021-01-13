@@ -235,7 +235,11 @@ Today I took a look on useReducer in ReactJs and thats all coz it was a bit of c
 
 ## Day 53
 
-Today I learnt about prop Drilling in this I learnt that how to not to pass some information to every child function to render it out on the webpage.
+Today I learnt about prop Drilling in this I learnt that how to  pass some information to every child function to render it out on the webpage.
+
+## Day 54
+
+Today I learnt about context APIs and how can we use it to rectify the error of prop drilling and Render the Component to the user.
 
 
 
