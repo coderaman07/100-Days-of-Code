@@ -411,6 +411,22 @@ I got it working I mean a Basic HTML CSS page but It will be good If I apply a b
 
 I made it the Basic Prototype of the future Blogging Website now I will start working on React thing like converting this website in some smll Components and Rendering it out using a React Rendering.
 
+## Day 97
+
+Today I strated to make the components more and made a good progress but I am kind of stuck in some HTML CSS things because I now want to change the Blog card and now I am kind of stuck in it.
+
+## Day 98
+
+Today I Developed the API with Django and now exporting the Data as JSON Response I will change this in near future but for the current scenario It is good to have JSON Response.
+
+## Day 99
+
+Today I started allow me to post to the Database with not going into DataBase but still writing the Contents into the Database.
+
+## Day 100
+
+Today is the Final Day but I am still Stuck in the React Blog ard things but I have made it Multi Page App with Django being the Backend but the Developement is almost 3 % complete lol.
+
 
 
 ## Contributing
@@ -419,14 +435,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Aman Ojha** - *Initial work* - [Aman Ojha](https://github.com/coderaman07)
+* **Aman Ojha** - *Work* - [Aman Ojha](https://github.com/coderaman07)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
